@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Arduino
 =======
 # Arduino Workshop
@@ -54,4 +54,4 @@ The workshop consists of 4 progressively challenging projects. Each project will
     <img src="https://github.com/farismansouri.png?size=50" alt="farismansouri" style="border-radius: 50%; width: 50px;">
   </a>
 </p>
->>>>>>> 492c70d (arduino)
+
