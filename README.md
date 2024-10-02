@@ -1,6 +1,3 @@
-
-# Arduino
-=======
 # Arduino Workshop
 
 Welcome to the **Arduino Workshop** repository! This workshop is organized by [42 Wolfsburg](https://www.42wolfsburg.de) and is designed to introduce participants to the basics of Arduino programming and electronics.
