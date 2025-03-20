@@ -24,9 +24,9 @@ The workshop consists of 4 progressively challenging projects. Each project will
 
 ### Project List
 
-1. **[LED Control](https://github.com/benanredzhebov/Arduino_Uno_Workshop/blob/main/ex00%20-%20LED%20control/README.md)**
+1. **[LED Control](https://github.com/benanredzhebov/Arduino/tree/main/ex00%20-%20LED%20control)**
 
-2. **[LCD Control](https://github.com/benanredzhebov/Arduino_Uno_Workshop/tree/main/ex01%20-%20LCD%20control)**
+2. **[LCD Control](https://github.com/benanredzhebov/Arduino/tree/main/ex01%20-%20LCD%20control)**
 
 3. **[Servo Control](https://github.com/benanredzhebov/Arduino/tree/main/ex02%20-%20Servo%20control)**
 
